@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - My ASP.NET MVC Application</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/themes/base/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link href="/Content/Template/css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="page-out">
+        <div class="page-in">
+            <div class="page">
+                <div class="main">
+                    <div class="header">
+                        <div class="header-top">
+                            <h1>Company <span>Name</span></h1>
+                        </div>
+                    </div>
+                    <div class="content" style="min-height: 800px;">
+                        @RenderBody()
+                    </div>
+                    <div class="footer">
+                        <!--DO NOT Remove The Footer Links-->
+                        <!--Designed by-->
+                        <a href="http://www.htmltemplates.net">
+                            <img src="images/footer.gif" alt="html templates" border="0" height="1" width="1"></a>
+                        <!--In partnership with-->
+                        <a href="http://websitetemplates.net">
+                            <img src="images/footer.gif" alt="website templates" border="0" height="1" width="1"></a>
+                        <p>
+                            &copy; Copyright 2010. Designed by <a target="_blank" href="http://www.htmltemplates.net">htmltemplates.net</a>
+                            <!--DO NOT Remove The Footer Links-->
+                        </p>
+                        <ul>
+                            <li style="border-left: medium none;"><a href="index.html"><span>Home</span></a></li>
+                            <li><a href="#"><span>About&nbsp;us</span></a></li>
+                            <li><a href="#"><span>What's&nbsp;new</span></a></li>
+                            <li><a href="#"><span>Services</span></a></li>
+                            <li><a href="#"><span>Contact</span></a></li>
+                            <li><a href="#"><span>Resources</span></a></li>
+                            <li style="padding-right: 0px;"><a href="#"><span>Links</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+

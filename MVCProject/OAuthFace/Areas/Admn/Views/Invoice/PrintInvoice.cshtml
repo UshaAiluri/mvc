@@ -1,0 +1,23 @@
+﻿@model OAuthFace.EntityModels.tblOrder
+@{
+    ViewBag.Title = "PrintInvoice";
+}
+
+<h2>Printable Format</h2>
+
+@Html.Partial("_AdmnMenu")
+
+<h2>Print Invoice</h2>
+
+@Html.ActionLink("Edit", "EditInvoice", "Invoice", new { id = Model.idAutoPK, redirectTo="PrintInvoice" }, null)
+
+<p />
+Invoice No @Html.DisplayFor(x => x.idAutoPK) Dated @Html.DisplayFor(x => x.orderDate)
+<p />
+In favour of @Html.DisplayFor(x => x.tblUser.customerEmail), @Html.DisplayFor(x => x.tblUser.customerName)
+<p />
+Contact @Html.DisplayFor(x => x.tblUser.customerPhone)
+<p />
+Item Purchased - @Html.DisplayFor(x => x.tblProduct.productName)
+<p />
+Invoice Amount(Rs) - @Html.DisplayFor(x => x.invoiceAmount)

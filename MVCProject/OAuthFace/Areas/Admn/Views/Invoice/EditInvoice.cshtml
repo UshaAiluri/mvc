@@ -1,0 +1,13 @@
+﻿@model OAuthFace.EntityModels.tblOrder
+@{
+    ViewBag.Title = "EditInvoice";
+}
+
+<h2>Edit Invoice #@Model.idAutoPK </h2>
+
+@Html.Partial("_AdmnMenu")
+
+<h2>Invoice Details</h2>
+
+@Html.EditorForModel("InvoiceForm")
+

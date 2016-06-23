@@ -1,0 +1,38 @@
+﻿@model OAuthFace.EntityModels.tblUser
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Customer ID:</td>
+            <td>
+                 @Html.TextBoxFor(x => x.customerEmail)
+                <br />
+                @if (!String.IsNullOrEmpty(ViewBag.SuppressRemoteValidation))
+                {
+                    @Html.Hidden("hfSuppressRemote", "1")
+                }</td>
+            <td>@Html.ValidationMessageFor(x => x.customerEmail)</td>
+        </tr>
+
+        <tr>
+            <td>Name:</td>
+            <td>
+                @Html.TextBoxFor(x => x.customerName)</td>
+            <td>@Html.ValidationMessageFor(x => x.customerName)</td>
+        </tr>
+        <tr>
+            <td>Phone:</td>
+            <td>
+                @Html.TextBoxFor(x => x.customerPhone)</td>
+            <td>@Html.ValidationMessageFor(x => x.customerPhone)</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="taR">
+               <input type="button" onclick="javascript:history.back(-1)" value="Cancel" /> <input type="submit" value="Save" />
+            </td>
+        </tr>
+    </table>
+}
+
+@Html.Partial("message")

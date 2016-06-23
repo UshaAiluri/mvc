@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbOrdersModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="dbOrdersEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="tblOrders" EntityType="dbOrdersModel.tblOrder" />
+    <EntitySet Name="tblProducts" EntityType="dbOrdersModel.tblProduct" />
+    <EntitySet Name="tblUsers" EntityType="dbOrdersModel.tblUser" />
+    <AssociationSet Name="RelProdFK" Association="dbOrdersModel.RelProdFK">
+      <End Role="tblProduct" EntitySet="tblProducts" />
+      <End Role="tblOrder" EntitySet="tblOrders" />
+    </AssociationSet>
+    <AssociationSet Name="RelUserFK" Association="dbOrdersModel.RelUserFK">
+      <End Role="tblUser" EntitySet="tblUsers" />
+      <End Role="tblOrder" EntitySet="tblOrders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tblOrder">
+    <Key>
+      <PropertyRef Name="idAutoPK" />
+    </Key>
+    <Property Type="Int32" Name="idAutoPK" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="customerFK" Nullable="false" />
+    <Property Type="String" Name="productCodeFK" Nullable="false" MaxLength="1" FixedLength="true" Unicode="true" />
+    <Property Type="Int16" Name="invoiceAmount" Nullable="false" />
+    <Property Type="DateTime" Name="orderDate" Nullable="false" Precision="3" />
+    <NavigationProperty Name="tblProduct" Relationship="dbOrdersModel.RelProdFK" FromRole="tblOrder" ToRole="tblProduct" />
+    <NavigationProperty Name="tblUser" Relationship="dbOrdersModel.RelUserFK" FromRole="tblOrder" ToRole="tblUser" />
+  </EntityType>
+  <EntityType Name="tblProduct">
+    <Key>
+      <PropertyRef Name="productCode" />
+    </Key>
+    <Property Type="String" Name="productCode" Nullable="false" MaxLength="1" FixedLength="true" Unicode="true" />
+    <Property Type="String" Name="productName" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tblOrders" Relationship="dbOrdersModel.RelProdFK" FromRole="tblProduct" ToRole="tblOrder" />
+  </EntityType>
+  <EntityType Name="tblUser">
+    <Key>
+      <PropertyRef Name="idAutoPK" />
+    </Key>
+    <Property Type="String" Name="customerEmail" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="customerName" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Type="String" Name="customerPhone" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="idAutoPK" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="tblOrders" Relationship="dbOrdersModel.RelUserFK" FromRole="tblUser" ToRole="tblOrder" />
+  </EntityType>
+  <Association Name="RelProdFK">
+    <End Type="dbOrdersModel.tblProduct" Role="tblProduct" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="dbOrdersModel.tblOrder" Role="tblOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProduct">
+        <PropertyRef Name="productCode" />
+      </Principal>
+      <Dependent Role="tblOrder">
+        <PropertyRef Name="productCodeFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RelUserFK">
+    <End Type="dbOrdersModel.tblUser" Role="tblUser" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Type="dbOrdersModel.tblOrder" Role="tblOrder" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUser">
+        <PropertyRef Name="idAutoPK" />
+      </Principal>
+      <Dependent Role="tblOrder">
+        <PropertyRef Name="customerFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome Administrator</h2>
+
+@Html.Partial("_AdmnMenu")
+
+<section>
+    <h2><img height="48px" src="/COntent/Images/newcustomer.png" />Create Customer</h2>
+    @Html.EditorForModel("CustomerForm")
+</section>

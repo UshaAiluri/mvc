@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbOrdersModel.Store" Alias="Self" Provider="System.Data.SqlServerCe.4.0" ProviderManifestToken="4.0" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="dbOrdersModelStoreContainer">
+    <EntitySet Name="tblOrders" EntityType="dbOrdersModel.Store.tblOrders" store:Type="Tables" />
+    <EntitySet Name="tblProducts" EntityType="dbOrdersModel.Store.tblProducts" store:Type="Tables" />
+    <EntitySet Name="tblUsers" EntityType="dbOrdersModel.Store.tblUsers" store:Type="Tables" />
+    <AssociationSet Name="RelProdFK" Association="dbOrdersModel.Store.RelProdFK">
+      <End Role="tblProducts" EntitySet="tblProducts" />
+      <End Role="tblOrders" EntitySet="tblOrders" />
+    </AssociationSet>
+    <AssociationSet Name="RelUserFK" Association="dbOrdersModel.Store.RelUserFK">
+      <End Role="tblUsers" EntitySet="tblUsers" />
+      <End Role="tblOrders" EntitySet="tblOrders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tblOrders">
+    <Key>
+      <PropertyRef Name="idAutoPK" />
+    </Key>
+    <Property Name="idAutoPK" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="customerFK" Type="int" Nullable="false" />
+    <Property Name="productCodeFK" Type="nchar" Nullable="false" MaxLength="1" />
+    <Property Name="invoiceAmount" Type="smallint" Nullable="false" />
+    <Property Name="orderDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblProducts">
+    <Key>
+      <PropertyRef Name="productCode" />
+    </Key>
+    <Property Name="productCode" Type="nchar" Nullable="false" MaxLength="1" />
+    <Property Name="productName" Type="nvarchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="tblUsers">
+    <Key>
+      <PropertyRef Name="idAutoPK" />
+    </Key>
+    <Property Name="customerEmail" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="customerName" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="customerPhone" Type="nvarchar" Nullable="false" MaxLength="15" />
+    <Property Name="idAutoPK" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+  </EntityType>
+  <Association Name="RelProdFK">
+    <End Role="tblProducts" Type="dbOrdersModel.Store.tblProducts" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblOrders" Type="dbOrdersModel.Store.tblOrders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProducts">
+        <PropertyRef Name="productCode" />
+      </Principal>
+      <Dependent Role="tblOrders">
+        <PropertyRef Name="productCodeFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="RelUserFK">
+    <End Role="tblUsers" Type="dbOrdersModel.Store.tblUsers" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tblOrders" Type="dbOrdersModel.Store.tblOrders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblUsers">
+        <PropertyRef Name="idAutoPK" />
+      </Principal>
+      <Dependent Role="tblOrders">
+        <PropertyRef Name="customerFK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

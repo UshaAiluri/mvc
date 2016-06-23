@@ -1,0 +1,14 @@
+﻿@model OAuthFace.EntityModels.tblUser
+@{
+    ViewBag.Title = "EditCustomer";
+    ViewBag.SuppressRemoteValidation = "Yes";
+}
+
+<h2>EditCustomer</h2>
+
+@Html.Partial("_AdmnMenu")
+
+<h2>Customer Info</h2>
+
+@Html.EditorForModel("CustomerForm")
+

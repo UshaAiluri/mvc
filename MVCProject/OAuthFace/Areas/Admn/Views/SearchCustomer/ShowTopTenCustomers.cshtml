@@ -1,0 +1,33 @@
+﻿@model IEnumerable<OAuthFace.Areas.Admn.Models.CCustomerOrderReport>
+@{
+    ViewBag.Title = "ShowTopTenCustomers";
+}
+
+<h2>Showing Top Ten Customers</h2>
+
+@Html.Partial("_AdmnMenu")
+
+<h2><img height="48px" src="/COntent/Images/topten.png" />Report</h2>
+
+<table class="report">
+    <tr>
+        <th>Customer EMail</th>
+        <th>Total Order Amount</th>
+        <th>Total Number of Orders</th>
+    </tr>
+    @foreach (var v in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(v.CustomerName, "Index", "SearchCustomer", new{EMailToSearch = v.CustomerName}, null)
+                
+            </td>
+            <td>
+                @(v.TotalOrderAmount ?? 0)
+            </td>
+            <td>
+                @(v.TotalNumberOfOrders ?? 0)
+            </td>
+        </tr>
+    }
+</table>

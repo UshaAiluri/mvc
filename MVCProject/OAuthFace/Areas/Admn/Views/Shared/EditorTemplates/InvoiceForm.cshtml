@@ -1,0 +1,42 @@
+﻿@model OAuthFace.EntityModels.tblOrder
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Customer:</td>
+            <td>
+
+                @Html.DisplayFor(x => x.tblUser.customerEmail)
+            </td>
+        </tr>
+        <tr>
+            <td>Product:
+            </td>
+            <td>
+                @Html.DropDownListFor(x => x.productCodeFK, new SelectList(ViewBag.Products, "productCode", "productName"), new { @class = "fullWidth" })
+            </td>
+            <td>
+                @Html.ValidationMessageFor(x => x.productCodeFK)
+            </td>
+        </tr>
+        <tr>
+            <td>Amount:
+            </td>
+            <td>
+                @Html.TextBoxFor(x => x.invoiceAmount)</td>
+            <td>
+                @Html.ValidationMessageFor(x => x.invoiceAmount)
+            </td>
+        </tr>
+
+
+        <tr>
+            <td colspan="2" class="taR">
+               <input type="button" onclick="javascript:history.back(-1)" value="Cancel" /> <input type="submit" value="Save" />
+            </td><td></td>
+        </tr>
+    </table>
+}
+
+@Html.Partial("message")

@@ -1,0 +1,472 @@
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\OAuthFace.pdb
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Antlr3.Runtime.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\EntityFramework.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Infrastructure.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Spatial.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Http.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Optimization.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\WebGrease.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\EntityFramework.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Http.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\System.Spatial.xml
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\de\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\es\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\fr\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\it\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ja\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ko\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\ru\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\zh-Hans\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\bin\zh-Hant\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csprojResolveAssemblyReference.cache
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.dll
+E:\SyBooks_V3\Invoice Management System\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.pdb
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.pdb
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\OAuthFace.pdb
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Antlr3.Runtime.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\EntityFramework.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Spatial.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Http.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Optimization.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\WebGrease.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\EntityFramework.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Http.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Spatial.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\de\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\es\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\fr\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\it\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ja\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ko\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\ru\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll.config
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Extensions.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Primitives.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Mono.Math.dll
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Extensions.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Primitives.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\bin\Mono.Math.xml
+C:\Users\Developer\Desktop\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csproj.App.config
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csproj.App.config
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csprojResolveAssemblyReference.cache
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.pdb
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll.config
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\OAuthFace.pdb
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Antlr3.Runtime.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Common.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdOAuth.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\EntityFramework.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Infrastructure.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Extensions.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Primitives.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Spatial.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Optimization.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebGrease.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Org.Mentalis.Security.Cryptography.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Mono.Math.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Common.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdOAuth.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Extensions.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Primitives.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\EntityFramework.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Spatial.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Org.Mentalis.Security.Cryptography.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Mono.Math.xml
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\de\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\es\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\fr\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\it\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ja\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ko\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ru\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hans\System.Spatial.resources.dll
+E:\SyBooks_V3\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hant\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll.config
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\OAuthFace.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\OAuthFace.pdb
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Antlr3.Runtime.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Common.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdOAuth.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\EntityFramework.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Infrastructure.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Extensions.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Primitives.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Spatial.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Optimization.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebGrease.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Org.Mentalis.Security.Cryptography.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Mono.Math.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.AspNet.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.Core.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.InfoCard.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Common.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenId.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\DotNetOpenAuth.OpenIdOAuth.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Extensions.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Formatting.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Net.Http.Primitives.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.OData.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\EntityFramework.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Newtonsoft.Json.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Helpers.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Http.WebHost.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Mvc.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.Razor.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Deployment.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Web.WebPages.Razor.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.Data.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\WebMatrix.WebData.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.Edm.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Microsoft.Data.OData.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\System.Spatial.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Org.Mentalis.Security.Cryptography.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\Mono.Math.xml
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\de\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\es\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\fr\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\it\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ja\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ko\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ru\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\de\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\es\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\fr\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\it\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ja\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ko\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\ru\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hans\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\bin\zh-Hant\System.Spatial.resources.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csproj.App.config
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.csprojResolveAssemblyReference.cache
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.dll
+D:\My Documents\ProjectsInProgress\Desktop\SyBooksV5\Invoice Management System\downloads\d2\OAuthFaceColors\OAuthFace\obj\Debug\OAuthFace.pdb

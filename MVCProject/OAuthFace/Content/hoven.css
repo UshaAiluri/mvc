@@ -1,0 +1,47 @@
+﻿.taR {
+    text-align: right;
+}
+
+.err, .field-validation-error {
+    color: Red;
+    font-size:9pt;
+}
+
+.fullWidth {
+    width: 96%;
+}
+
+.ui-autocomplete-loading {
+    /*background: white url('images/ui-anim_basic_16x16.gif') right center no-repeat;*/
+    color: red;
+}
+
+img {
+    vertical-align:middle;
+    margin:3px;
+    border: none;
+}
+
+h2 {
+    font-size:  2.0em;
+}
+
+h1,h2,form, input, textarea, select {
+    padding: 5px;
+	margin: 5px;
+}
+
+table {
+    margin-left:3px;
+    font-size:1.5em;
+    font-family:Calibri;
+}
+table.report {
+    border-collapse: collapse;
+}
+
+table.report td, table.report th {
+    border: 1px solid black;
+    padding:  3px;
+}
+

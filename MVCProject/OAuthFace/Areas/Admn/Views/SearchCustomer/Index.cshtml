@@ -1,0 +1,105 @@
+﻿@model OAuthFace.Areas.Admn.ViewModels.CSearchViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Search Customer</h2>
+
+@Html.Partial("_AdmnMenu")
+
+<h2>
+    <img height="48px" src="/COntent/Images/search.png" />Customer Info</h2>
+
+@using (Html.BeginForm("Index", "SearchCustomer", FormMethod.Get))
+{
+    <table>
+        <tr>
+            <td>EMail:</td>
+            <td>
+                @Html.TextBoxFor(x => x.EMailToSearch)
+            </td>
+            <td>
+                @Html.ValidationMessageFor(x => x.EMailToSearch)
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" class="taR">
+                <input type="submit" value="Search" />
+            </td>
+        </tr>
+    </table>
+}
+
+@section scripts{
+
+    <script>
+        $("#EMailToSearch").autocomplete({
+            source: "/Admn/Invoice/AutoComplete",
+            minLength: 2
+        });
+    </script>
+}
+
+
+@if (null != Model.User)
+{
+    <h2>Customer Details</h2>
+    <br />
+    <h3>
+        <a href="/Admn/Home/EditCustomer/@Model.User.idAutoPK">
+            <img height="24px" src="/COntent/Images/edit.png" />
+            Edit</a></h3>
+    
+    <table>
+        <tr>
+            <td>Name</td>
+            <td>@Html.DisplayFor(x => x.User.customerName)</td>
+        </tr>
+        <tr>
+            <td>Phone</td>
+            <td>@Html.DisplayFor(x => x.User.customerPhone)</td>
+        </tr>
+    </table>
+    <p /><br />
+}
+else
+{
+    <span>Enter a customer email to get details.</span>
+}
+
+
+
+@if (null != Model.Orders)
+{   
+    <h2>Order History of this Customer</h2>   
+    <p />
+    <br />
+    <h3><a href="/Admn/Invoice/Index/@Model.User.idAutoPK">
+        <img height="24px" src="/COntent/Images/new.png" />
+        New Invoice</a></h3>
+    <p />
+    <br />
+    
+    <table class="report">
+        <thead>
+            <tr>
+                <th>Order No.</th>
+                <th>Date</th>
+                <th>Item</th>
+                <th>Amount</th>
+                <th>Edit</th>
+            </tr>
+        </thead>
+        @foreach (var v in Model.Orders)
+        {
+            <tr>
+                <td>@v.idAutoPK</td>
+                <td>@Html.DisplayFor(x => v.orderDate)</td>
+                <td>@v.tblProduct.productName</td>
+                <td>@v.invoiceAmount</td>
+                <td>@Html.ActionLink("Edit", "EditInvoice", "Invoice", new { id = v.idAutoPK }, null)</td>
+            </tr>
+        }
+    </table>
+}
